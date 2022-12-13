@@ -6,12 +6,12 @@
 </head>
 <body>
     <header>
-        <h1>Muhammad Ammar Ansari</h1>
+        <h1>Nancy Rao</h1>
         <nav>
             <a href = "http://www.gmail.com">One</a>
             <a href = "http://www.facebook.com">Two</a>
             <a href = "http://www.google.com">Three</a>
-            <a href = "http://www.github.com/ammaritiz">Github</a><br>
+            <a href = "http://www.github.com/nancy9027">Github</a><br>
     </nav>
     </header>
     <section>
